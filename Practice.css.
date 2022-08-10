@@ -1,0 +1,25 @@
+
+ 
+#header {
+        background:#d0f3f2;
+        width: 55%;  
+        height: 170px;
+        }
+.main {
+        background: #ebf3f3;
+        width: 55%;
+        }
+
+#table {
+        width: 600px;
+        }
+td {
+        height: 30px;
+    }
+a: visited {
+        color: green;
+}
+img {
+        float: right;
+        padding-right: 30px;
+}
